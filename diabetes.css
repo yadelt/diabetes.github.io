@@ -1,0 +1,11 @@
+#intro{
+  text-align: center;
+}
+li{
+  flex:1;}
+
+.container{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
